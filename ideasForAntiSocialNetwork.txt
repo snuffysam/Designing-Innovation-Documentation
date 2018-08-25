@@ -1,0 +1,9 @@
+﻿- A game that forces members of the community to go outside and interact with each other.
+
+	* Something like Pokemon GO already accomplishes this with Pokemon fans.
+
+	* Make specific locations in the real world into “goal points” for the game (for Pokemon GO, these are typically important landmarks).
+
+	* Then, incentivize players to go to those locations, by providing in-game rewards.
+
+	* Players should be able to interact with each other in the game, but only when they're also interacting in-person (I don't believe Pokemon GO has actually done this. One way this could be done with that game's mechanics is with players being able to trade items with other players, but only at close range). 
