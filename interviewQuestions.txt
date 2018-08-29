@@ -1,0 +1,39 @@
+﻿THINGS WE NEED TO FIGURE OUT
+-Which age group is most affected
+-What difficulties people who live with internet addiction encounter
+
+POTENTIAL INTERVIEWEES
+-Internet addiction expert?
+-People who spend a lot of time on social media (make a survey to find them/use a scale)
+	-People who want to quit social media
+-Relatives/friends/spouse/family of people who spend a lot of time on social media
+
+FIRST
+We need to make a survey
+Ask how much time you spend on social media sites (<1 hour per day, 1-2 hours per day, 2-5 hours per day, 5-10 hours per day, 10 or more hours per day)
+To what extent is your job dependent on social media?
+More specifically, the questions from the Generalized Pathological Internet Use Scale
+After those questions, we ask if anyone has a family member or friend with those attributes
+Make sure we get their emails or some other way to contact them
+Ask for a contact of the family member who is addicted if they said they were
+
+SECOND
+We pick some people who answered the survey
+	-People who had high scores on social media addiction
+	-People who said their friends or family had high scores on social media addiction
+
+==People who had high scores on social media addiction==
+What is your job? ...Age? ...Gender?
+What are things you gain from social media?
+What do you spend the most time doing in social media (for example, talking to friends, looking at funny videos, play games, read news, etc)?
+Tell me about a time something bad happened to you on social media.
+Tell me about something you don't like about real life that would make you prefer social media.
+Which web communities do you prefer? What characteristics do you prefer?
+
+==People who talked about their friends and family==
+What is your job? ...Age? ...Gender?
+What is [friend or family member]'s job? ...Age? ...Gender?
+How is your relationship affected by [friend or family member] being on social media?
+Can you think of any reasons why [friend or family member] would spend so much time on social media?
+How long has [friend or family member] been using social media this way? Was there any event that brought along this change?
+Do you think [friend or family member] is happy on social media?
