@@ -1,0 +1,25 @@
+﻿PROJECT IDEA
+
+App where communities for any interest can be created (baseball, specific bands, tv show)
+
+With the app, you can schedule real-life meet-ups with people in the community.
+
+When you meet up, you get points, items, whatever in a game.
+
+-3 personas
+
+HAL
+	-habitica
+	-Reddit
+
+YUTONG
+	-Bibibili Macro Link
+	-NetEase Cloud Music
+
+YUAN
+	-Pokemon GO
+	-Tik Tok
+
+JINQI
+	-Hit FM
+	-Ant Forest (from Alipay)
