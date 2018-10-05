@@ -1,0 +1,30 @@
+﻿* Searching by ….Friends & New Movies;
+
+* To create an independent section for users of Movie Club; (Good Seats!)
+
+* If there are many users participating in the game, or there are many games processing at the same time. Theaters can provide specific areas for them. 
+
+* Playing at the seats before movie start.
+
+* Playing using the screen.
+
+search bar on first screen
+feature to invite people
+refund of other movie
+reserve ticket/seat
+
+Comfortable
+Group size
+Profile for the trivia
+Game is different ( dislike bed reading)
+Not be in creepy
+
+* Profile to select people before. By machine    match people by AI.  Preferences the size of group,  Choosing 
+
+* See what? If there if a asshole…..Not being creepy.
+
+* Grading people , thumb up and down.
+
+* Add as friends.
+
+- Confusing how our prototype seemingly had multiple options, but the user actually didn't make any choices (was essentially a slideshow).
